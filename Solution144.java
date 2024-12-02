@@ -88,6 +88,6 @@ public class Solution144 {
         five.right = seven;
         eight.left = nine;
 
-        System.out.println(preorderTraversal(null));
+        System.out.println(preorderTraversal(one));
     }
 }
