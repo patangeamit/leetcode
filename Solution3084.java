@@ -1,5 +1,5 @@
 
-class Solution {
+class Solution3084 {
     public static long countSubstrings(String s, char c) {
         int temp = 0;
         int count = 0;
